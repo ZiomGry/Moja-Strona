@@ -12,7 +12,7 @@
 
 #menubar
 {
-border: 2px solid coral;
+
 }
 
 p {
@@ -26,12 +26,12 @@ p {
   border: none;
   border-radius: 15px;
   color: white;
-  padding: 13.5px 72.9px;
+  padding: 12px 24px;
   text-align: center;
   text-decoration: none;
-  display: inline-block;
+  display: content;
   font-size: 20px;
-  margin: 5px;
+  margin: 0px auto;
   cursor: pointer;
 }
-.button5 {background-color: #555555;}
+.button5 {background-color: #10cbd89f;}
