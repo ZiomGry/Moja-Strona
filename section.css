@@ -1,0 +1,33 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  scroll-snap-type: y mandatory;
+  overflow: scroll;
+  line-height: 1;
+}
+section {
+  padding: 7em 0;
+  height: calc(100vh - 14em);
+  scroll-snap-type: start;
+  color: white;
+  text-align: center;
+}
+#one {
+  margin: 0 auto;
+  background-color: #87f9ff;
+}
+#second {
+  margin: 0 auto;
+  background-color: #5af2fa;
+}
+#three {
+  margin: 0 auto;
+  background-color: #28f2fc;
+}
+h1 {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 200;
+}
