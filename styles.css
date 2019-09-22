@@ -12,7 +12,7 @@
 
 #menubar
 {
-  
+
 }
 
 p {
@@ -21,3 +21,17 @@ p {
   margin: 50px auto;
   font: 30px Monaco,"Courier New","DejaVu Sans Mono","Bitstream Vera Sans Mono",monospace;
 }
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 13.5px 72.9px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 5px;
+  cursor: pointer;
+}
+.button5 {background-color: #555555;}
