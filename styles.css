@@ -73,3 +73,11 @@ body {
 .side-menu-trigger:focus ~ .side-menu, .side-menu:hover {
   transform: translateX(-300px); 
 }
+
+#submit-button {
+  background-color: #cce6ff;
+  border: medium none !important;
+  border-radius: 7px;
+  width: 130px;
+  height: 30px;
+}
